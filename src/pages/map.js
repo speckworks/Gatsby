@@ -60,6 +60,7 @@ const mapStyles = {
 )
   }
 }
+
 const API_KEY = process.env.REACT_APP_GOOGLE_MAPS_KEY
 export default GoogleApiWrapper({
     apiKey:API_KEY,
