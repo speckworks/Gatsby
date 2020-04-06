@@ -1,6 +1,5 @@
 import React from "react"
 import Link from "gatsby-link"
-import Map from "google-maps-react"
 
 export default () => <div>
         <h1>Beaches are Us!</h1>
@@ -12,7 +11,6 @@ in the beginning.. there was water.
         <Link to="/page-2">Page 2</Link>
         <br />
         <Link to="/counter/">counter page</Link>
-        <Link to="/map/">Map Page</Link>
-        <Map></Map>
+
         
 Hello world!</div>
