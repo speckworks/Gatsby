@@ -2,7 +2,7 @@ import React from "react"
 import Link from "gatsby-link"
 
 export default () => <div>
-        <h1>Beaches are Us!</h1>
+        <h1>Fun with Gatsby</h1>
         <span style={{font:"garamonde", color:"blue", background:"black"}}>
 in the beginning.. there was water.
         </span>
